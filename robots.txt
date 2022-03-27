@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: ishantrivedi25.github.io
